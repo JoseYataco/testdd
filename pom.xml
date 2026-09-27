@@ -8,11 +8,7 @@
         <version>4.1.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>demo-feing-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo-feing-client</name>
-    <description>demo-feing-client</description>
     <url/>
     <licenses>
         <license/>
@@ -27,7 +23,6 @@
         <url/>
     </scm>
     <properties>
-        <java.version>25</java.version>
         <spring-cloud.version>2025.1.3</spring-cloud.version>
     </properties>
     <dependencies>
